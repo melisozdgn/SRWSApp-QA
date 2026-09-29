@@ -1,0 +1,16 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets
+.env
+*.env.local
+
+# Tooling output
+node_modules/
+newman/*-report*/
+**/bin/
+**/obj/
+**/TestResults/
